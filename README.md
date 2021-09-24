@@ -1,0 +1,3 @@
+-Docker files for RedHat 7.3 and Centos 6 and above.
+-RedHat Docker file requires your login creds to pull images.
+-Centos Docker file doesn't require login creds as CentOS distribution and usage is free.
